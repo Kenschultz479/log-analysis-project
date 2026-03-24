@@ -1,0 +1,4 @@
+User login failed from 192.168.1.10
+Error: unauthorized access attempt
+Successful login from admin
+Failed password attempt detected
