@@ -1,20 +1,30 @@
 # log-analysis-project
-Log Analysis Project
 
-This project demonstrates basic cybersecurity log analysis using Python.
+## Overview
+This repository contains beginner-friendly SOC and cybersecurity lab projects built with Python and simulated security data.
 
-Description:
-The script parses log data and identifies suspicious events such as failed login attempts and unauthorized access.
+## Included Labs
+- **Log Analysis Tool** - detects suspicious events such as failed logins and unauthorized access attempts
+- **Brute Force Detection Lab** - identifies repeated failed logins from the same IP address
+- **Alert Triage Lab** - classifies alerts by severity and recommends response actions
+- **Phishing Analysis Lab** - analyzes a simulated phishing email for common malicious indicators
 
-Technologies:
-- Python
-
-Skills Demonstrated:
+## Skills Demonstrated
 - Log analysis
-- Security event detection
-- Incident investigation
-- Automation
+- Python scripting
+- Threat detection
+- Alert triage
+- Incident documentation
+- Phishing analysis
+- Basic SOC workflow
 
-Example Findings:
-- Failed login attempts
-- Unauthorized access attempts
+## Tools and Concepts
+- Python
+- Windows Event Logs
+- Nmap
+- MITRE ATT&CK
+- Incident response
+- Security monitoring
+
+## Purpose
+These labs were created to demonstrate hands-on cybersecurity and SOC-related skills for internship and entry-level security roles.
