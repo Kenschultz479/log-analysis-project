@@ -1,0 +1,14 @@
+From: IT Support <support@micr0soft-security.com>
+To: employee@company.com
+Subject: Urgent: Verify Your Account Immediately
+
+Dear User,
+
+We detected unusual activity on your account. Please verify your password immediately to avoid suspension.
+
+Click here: http://micr0soft-security-login.com/verify
+
+Failure to act within 30 minutes will result in account lockout.
+
+Thank you,
+IT Support

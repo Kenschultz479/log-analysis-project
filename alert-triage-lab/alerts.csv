@@ -1,0 +1,6 @@
+alert_id,alert_type,source,severity,description
+1001,Failed Login Burst,192.168.1.10,High,Multiple failed logins detected from one IP
+1002,Admin Login,AMRMainDesk,Medium,Special privileges assigned to new logon
+1003,Malware Signature Hit,HOST-22,High,Known malicious hash detected on endpoint
+1004,Port Scan,172.16.0.8,Medium,Sequential connection attempts to multiple ports
+1005,Successful Login,10.0.0.5,Low,Normal successful login event
